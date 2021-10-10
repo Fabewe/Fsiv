@@ -1,0 +1,3 @@
+/home/fabewe/Documentos/fsiv/Assigment2 Equalization/build/CMakeFiles/rebuild_cache.dir
+/home/fabewe/Documentos/fsiv/Assigment2 Equalization/build/CMakeFiles/edit_cache.dir
+/home/fabewe/Documentos/fsiv/Assigment2 Equalization/build/CMakeFiles/Equalization.dir
