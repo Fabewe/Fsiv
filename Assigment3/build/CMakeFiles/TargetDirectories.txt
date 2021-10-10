@@ -1,0 +1,3 @@
+/home/fabewe/Documentos/fsiv/Assigment3/build/CMakeFiles/rebuild_cache.dir
+/home/fabewe/Documentos/fsiv/Assigment3/build/CMakeFiles/edit_cache.dir
+/home/fabewe/Documentos/fsiv/Assigment3/build/CMakeFiles/boxFilter.dir
