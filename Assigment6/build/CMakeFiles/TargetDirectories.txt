@@ -1,0 +1,4 @@
+/mnt/d/codes/fsiv/Assigment6/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/codes/fsiv/Assigment6/build/CMakeFiles/edit_cache.dir
+/mnt/d/codes/fsiv/Assigment6/build/CMakeFiles/greynoiseMedian.dir
+/mnt/d/codes/fsiv/Assigment6/build/CMakeFiles/noiseMedian.dir
