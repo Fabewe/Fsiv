@@ -1,5 +1,4 @@
 /***********************************************
-* Francisco Javier Díaz Cantillo.              *
 * Assigment 6: Median noise remove(colour)     *                                            
 ************************************************
 */
