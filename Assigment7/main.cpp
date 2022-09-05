@@ -1,5 +1,4 @@
 /***********************************************
-* Francisco Javier Díaz Cantillo.              *
 * Assigment 7: Morphological operations	       *                                            
 ************************************************
 */
