@@ -1,5 +1,4 @@
 /***********************************************
-* Francisco Javier Díaz Cantillo.              *
 * Assigment 4: Magnitude of Derivative         *                                            
 ************************************************
 */
