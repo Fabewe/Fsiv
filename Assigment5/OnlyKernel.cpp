@@ -1,6 +1,5 @@
 /***********************************************
-* Francisco Javier Díaz Cantillo.              *
-* Assigment 5: High boost filter		       *                                            
+* Assigment 5: High boost filter	       *                                            
 ************************************************
 */
 
