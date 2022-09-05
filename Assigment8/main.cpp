@@ -1,5 +1,4 @@
 /********************************************************
-* Francisco Javier Díaz Cantillo.                       *
 * Assigment 8:  Camera Calibration and 3D formation     *                                            
 *********************************************************
 */
