@@ -1,22 +1,10 @@
 /****************************************
- * Author: Francisco Javier Perez Castillo
- * Universidad de Córdoba (Spain)
  * 
  * The program must have the following command-line arguments:
  * 
  * ./augReal rows cols size intrinsics.yml video.mp4
  * 
  * **************************************/
-
-/*
- * Documentation:
-
-    - findChessboardCorners: https://docs.opencv.org/4.5.3/d9/d0c/group__calib3d.html#ga93efa9b0aa890de240ca32b11253dd4a
-    - solvePnP: https://docs.opencv.org/3.4.15/d9/d0c/group__calib3d.html#ga549c2075fac14829ff4a58bc931c033d
-    - cornerSubPix: https://docs.opencv.org/4.5.3/dd/d1a/group__imgproc__feature.html#ga354e0d7c86d0d9da75de9b9701a9a87e
-    - projectPoints: https://docs.opencv.org/4.5.3/d9/d0c/group__calib3d.html#ga1019495a2c8d1743ed5cc23fa0daff8c
-
-*/
 
 #include <opencv2/core/core.hpp> //core routines
 #include <opencv2/highgui/highgui.hpp>//imread,imshow,namedWindow,waitKey
